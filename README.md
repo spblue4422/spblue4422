@@ -1,6 +1,6 @@
-# Who
+# Who am I 🌊🌊🌊
 
-Seungeun Yu, newbie developer
+* Seungeun Yu, newbie developer
 
 
 <!--
