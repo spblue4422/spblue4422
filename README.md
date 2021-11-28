@@ -1,5 +1,7 @@
-### Hi there 👋
----
+# Who
+
+Seungeun Yu, newbie developer
+
 
 <!--
 **spblue4422/spblue4422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
